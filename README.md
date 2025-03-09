@@ -7,9 +7,9 @@
   git clone https://github.com/mks-div/QRManager.git
   ```
   3 - install requirements: 
-  ``` powershell bashnpm install ```
+  ```shell npm install ```
   if it doesn't work use:
-    ``` powershell bashnpm install ```
-    ``` powershell bashnpm install ```
-    ``` powershell bashnpm install ```
-    ``` powershell bashnpm install ```
+    ```shell npm install electron --save-dev```
+    ```shell npm install electron-packager --save-dev```
+    ```shell npm install jsqr --save```
+    ```shell npm install qrcode --save```
