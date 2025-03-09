@@ -11,7 +11,15 @@
   npm install
   ```
   if it doesn't work use:
-    ```shell npm install electron --save-dev```
-    ```shell npm install electron-packager --save-dev```
-    ```shell npm install jsqr --save```
-    ```shell npm install qrcode --save```
+  ```shell
+  npm install electron --save-dev
+  ```
+  ```shell
+  npm install electron-packager --save-dev
+  ```
+  ```shell
+  npm install jsqr --save
+  ```
+  ```shell
+  npm install qrcode --save
+  ```
