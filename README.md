@@ -31,3 +31,4 @@
   ```shell
   npm run build
   ```
+  > files are build to root/dist/QRManager
