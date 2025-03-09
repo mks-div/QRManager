@@ -23,7 +23,7 @@
   ```shell
   npm install qrcode --save
   ```
-  ## 4 run programm with: 
+  ## 4 - run programm with: 
   ```shell
   npm start
   ```
