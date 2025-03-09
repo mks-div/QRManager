@@ -13,7 +13,8 @@
   "description": "",
   "devDependencies": {
     "electron": "^34.0.2",
-    "electron-builder": "^25.1.8"
+    "electron-builder": "^25.1.8",
+    "electron-packager": "^17.1.2"
   },
   "dependencies": {
     "jsqr": "^1.4.0",
