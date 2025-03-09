@@ -7,7 +7,9 @@
   git clone https://github.com/mks-div/QRManager.git
   ```
   3 - install requirements: 
-  ```shell npm install ```
+  ```shell
+  npm install
+  ```
   if it doesn't work use:
     ```shell npm install electron --save-dev```
     ```shell npm install electron-packager --save-dev```
