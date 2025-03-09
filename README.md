@@ -6,5 +6,10 @@
   ```bash
   git clone https://github.com/mks-div/QRManager.git
   ```
-  3 - run: >npm install (if it doesn't work use: npm install\
-    
+  3 - install requirements: 
+  ``` powershell bashnpm install ```
+  if it doesn't work use:
+    ``` powershell bashnpm install ```
+    ``` powershell bashnpm install ```
+    ``` powershell bashnpm install ```
+    ``` powershell bashnpm install ```
