@@ -18,11 +18,11 @@ Clone the QRManager repository to your local machine using the following command
 git clone https://github.com/mks-div/QRManager.git
 ```
 ### 2. Install dependencies
-download packages and libraries to project from package.json folder with command:
+download packages and libraries to project folder from package.json  with command:
 ```bash
 npm install
 ```
-either you can do it manually:
+either do it manually:
 - Install electron, framework that allows to make applications:
   ```shell
   npm install electron --save-dev
